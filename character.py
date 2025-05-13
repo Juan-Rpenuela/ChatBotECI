@@ -84,6 +84,7 @@ class Char():
             print(f"[DEBUG] Detalles del video: {response_json}")
             
             status = response_json.get("status")
+            print(f"[DEBUG] Estado del video: {status}")
             if status == "done":
                 result_url = response_json.get("result_url")
                 if not result_url:
@@ -93,7 +94,7 @@ class Char():
                 break
             elif status in ["created", "started"]:
                 print(f"[DEBUG] El video aún no está listo (estado: {status}). Esperando...")
-                time.sleep(1.5)  # Esperar 5 segundos antes de volver a intentar
+                time.sleep(5)  # Esperar 5 segundos antes de volver a intentar
             else:
                 print(f"[ERROR] Estado inesperado del video: {status}")
                 return None

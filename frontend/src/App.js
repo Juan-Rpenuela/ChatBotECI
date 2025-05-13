@@ -4,6 +4,10 @@ function App() {
   const [recording, setRecording] = useState(false);
   const [isProcessing, setIsProcessing] = useState(false);
   const [videoSrc, setVideoSrc] = useState("/response.mp4");
+  const [isAnimating, setIsAnimating] = useState(true);
+  const [isListening, setIsListening] = useState(false);
+  const [status, setStatus] = useState("");
+  const [transcript, setTranscript] = useState("");
   const mediaRecorderRef = useRef(null);
   const audioChunksRef = useRef([]);
 
@@ -84,7 +88,7 @@ function App() {
     }
   };
 
-  return (
+    return (
     <div style={{
       minHeight: "100vh",
       background: "#222",
@@ -92,6 +96,25 @@ function App() {
       justifyContent: "center",
       alignItems: "center"
     }}>
+      <style>
+        {`
+          @keyframes expandVideo {
+            0% {
+              transform: scale(0);
+              opacity: 0;
+            }
+            100% {
+              transform: scale(1);
+              opacity: 1;
+            }
+          }
+          @keyframes pulse {
+            0% { opacity: 0.5; }
+            50% { opacity: 1; }
+            100% { opacity: 0.5; }
+          }
+        `}
+      </style>
       <div style={{
         background: "#222",
         borderRadius: "24px",
@@ -106,13 +129,48 @@ function App() {
           src={videoSrc}
           autoPlay
           style={{
-            width: "750px",
-            height: "750px",
+            width: "950px",
+            height: "950px",
             borderRadius: "24px",
             objectFit: "cover",
-            background: "#fff"
+            background: "#fff",
+            animation: isAnimating ? "expandVideo 1s ease-out forwards" : "none",
+            transformOrigin: "center",
+            filter: "brightness(1.2) contrast(1.2)",
+            position: "relative",
+            overflow: "hidden"
           }}
         />
+        <div style={{
+          position: "absolute",
+          top: "50%",
+          left: "50%",
+          transform: "translate(-50%, -50%)",
+          width: "750px",
+          height: "750px",
+          pointerEvents: "none",
+          zIndex: 1
+        }} />
+        <div style={{
+          marginTop: "24px",
+          color: "#fff",
+          fontSize: "16px",
+          textAlign: "center",
+          animation: isListening ? "pulse 2s infinite" : "none"
+        }}>
+          {status}
+        </div>
+        <div style={{
+          marginTop: "8px",
+          color: "#666",
+          fontSize: "14px",
+          textAlign: "center",
+          minHeight: "20px",
+          maxWidth: "750px",
+          wordWrap: "break-word"
+        }}>
+          {transcript}
+        </div>
         <button
           onClick={handleMicClick}
           disabled={isProcessing}
