@@ -1,9 +1,41 @@
+.container {
+    text-align: center;
+}
+
+.video-container {
+    margin-bottom: 0; /* Elimina el margen inferior */
+    width: 100%; /* Asegura que el contenedor ocupe todo el ancho */
+    height: auto; /* Ajusta la altura automáticamente */
+    overflow: hidden; /* Oculta cualquier contenido que sobresalga */
+}
+
+#generated-video {
+    width: 100%; /* El video ocupa todo el ancho */
+    height: auto; /* Mantiene la proporción del video */
+    border: none; /* Elimina cualquier borde */
+    outline: none; /* Elimina el contorno */
+    display: block; /* Asegura que el video sea un bloque */
+}
+
+.controls-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px; /* Separa los controles del video */
+}
+
+#text {
+    font-size: 1.2rem;
+    margin-top: 15px;
+}
+
 .btn-record {
     border: none;
     padding: 25px;
     border-radius: 50%;
     width: 100px;
     height: 100px;
+    margin: 10px;
 }
 
 .btn-record-green {
@@ -23,7 +55,7 @@
 .record-spinner {
     color: white;
     width: 30px;
-    height: 30px
+    height: 30px;
 }
 
 .mic-img {
