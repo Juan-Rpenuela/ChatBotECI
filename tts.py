@@ -30,9 +30,9 @@ class TTS():
     
         response = requests.post(url, json=data, headers=headers)
     
-        if response.status_code != 200:
+        """ if response.status_code != 200:
             print(f"Error en la API de ElevenLabs: {response.text}")
-            return None
+            return None """
     
         file_name = "response.mp3"
         with open("static/" + file_name, 'wb') as f:

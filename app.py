@@ -7,6 +7,7 @@ from transcriber import Transcriber
 from llm import LLM # Tu clase LLM actualizada
 from tts import TTS
 from character import Char
+import shutil
 
 load_dotenv()
 elevenlabs_key = os.getenv('ELEVENLABS_API_KEY') # Necesario para TTS
@@ -58,7 +59,19 @@ def audio_route():
     if not char_file:
         return {"result": "error", "text": "Error al descargar el video.", "file": tts_file, "char_file": None}
 
-    return {"result": "ok", "text": final_response_text, "file": tts_file, "char_file": f"/static/{char_file}"}
+    # Copiar el video a la carpeta frontend/public
+    frontend_video_path = os.path.join("frontend", "public", "response.mp4")
+    try:
+        # Asegurarse de que el directorio existe
+        os.makedirs(os.path.dirname(frontend_video_path), exist_ok=True)
+        # Copiar el archivo
+        shutil.copy2(os.path.join("static", char_file), frontend_video_path)
+        print(f"Video copiado a {frontend_video_path}")
+    except Exception as e:
+        print(f"Error al copiar el video: {e}")
+        return {"result": "error", "text": "Error al copiar el video.", "file": tts_file, "char_file": None}
+
+    return {"result": "ok", "text": final_response_text, "file": tts_file, "char_file": "/response.mp4"}
 
 if __name__ == "__main__":
     app.run(debug=True)
