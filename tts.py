@@ -17,7 +17,7 @@ class TTS():
         headers = {
             "Accept": "audio/mpeg",
             "Content-Type": "application/json",
-            "xi-api-key": self.key
+            "xi-api-key": "sk_fee058855f15ef71153d041974ce9e4621f31e5712f31111"
         }
 
         data = {
