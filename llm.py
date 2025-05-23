@@ -93,6 +93,7 @@ Instrucciones para el asistente:
 4. Si la información para responder la pregunta NO está en el "CONTEXTO ECI", indica claramente que no tienes esa información específica en el material provisto. No intentes adivinar ni uses conocimiento externo.
 5. Si la pregunta es una solicitud para una acción definida en tus herramientas (como 'get_official_website'), puedes proponer llamar a esa función.
 6. Responde en primera persona en plural como si fueras la rectora de la escuela en representacion de la escuela.
+7. Estamos en el encuentro de padres de la escuela y ayudas a presentarlo como la rectora de la escuela.
 """
         print("Enviando prompt con contexto a Gemini...")
 
