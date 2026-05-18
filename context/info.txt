@@ -1,0 +1,233 @@
+Análisis Institucional de la Escuela Colombiana de Ingeniería Julio Garavito: Excelencia Académica, Proyección Global y Compromiso Social
+La Escuela Colombiana de Ingeniería Julio Garavito se ha erigido, desde su fundación en 1972, como una institución baluarte en la formación de profesionales de alta calidad en Colombia. Su evolución, desde una escuela enfocada primordialmente en la ingeniería civil hasta convertirse en una universidad integral reconocida oficialmente en 2021 por el Ministerio de Educación Nacional, refleja un proceso de maduración institucional que combina la tradición científica con la innovación tecnológica.[1, 2] La institución debe su nombre al ilustre ingeniero y matemático colombiano Julio Garavito Armero, cuyo legado de rigor intelectual y servicio al país impregna la misión de la universidad: formar ingenieros de excelencia y seres humanos íntegros.[3, 4] Este informe técnico analiza pormenorizadamente los pilares que sustentan su prestigio, incluyendo su oferta académica, su modelo financiero de equidad, su infraestructura de vanguardia y su destacada proyección en escenarios internacionales y nacionales.
+Estructura Académica y Oferta de Programas de Pregrado
+La arquitectura curricular de la Escuela Colombiana de Ingeniería está diseñada para responder a los desafíos de un entorno globalizado y altamente tecnificado. La institución ha iniciado un proceso de transición hacia planes de estudio de cuatro años (ocho semestres), una medida alineada con estándares internacionales que busca optimizar la formación sin sacrificar la profundidad científica.[5, 6] La oferta de pregrado se caracteriza por una sólida base en ciencias básicas —matemáticas, física y química— que constituye el núcleo común para todas las ingenierías, garantizando que el estudiante desarrolle un pensamiento analítico superior.[3, 7]
+Carreras Profesionales y Enfoques Disciplinares
+La universidad ofrece una diversidad de programas que abarcan desde las ingenierías más tradicionales hasta las apuestas más innovadoras en el campo de la tecnología y las biociencias. La Ingeniería Civil continúa siendo el programa insignia, con un reconocimiento histórico por su impacto en la infraestructura nacional y su acreditación de alta calidad.[3, 8] No obstante, la Escuela ha diversificado su portafolio para incluir programas de vanguardia como la Ingeniería de Inteligencia Artificial, la Ingeniería de Ciberseguridad y la Ingeniería en Biotecnología, respondiendo a la demanda de la Cuarta Revolución Industrial.[7]
+Facultad / Área
+Programa de Pregrado
+Enfoque y Diferenciales
+Tecnologías Emergentes
+Ingeniería de Inteligencia Artificial
+Algoritmos, machine learning y ética digital.[6, 7]
+Tecnologías Emergentes
+Ingeniería de Ciberseguridad
+Protección de infraestructuras críticas y criptografía.[7]
+Biociencias y Salud
+Ingeniería en Biotecnología
+Procesos biológicos aplicados a la industria y el ambiente.[7, 9]
+Biociencias y Salud
+Ingeniería Biomédica
+Intersección entre ingeniería y medicina (valor único).[10, 11]
+Infraestructura y Energía
+Ingeniería Civil
+Estructuras, geotecnia, hidráulica y vías.[3, 8]
+Infraestructura y Energía
+Ingeniería Eléctrica
+Sistemas de potencia y transición energética.[6, 9]
+Sistemas y Computación
+Ingeniería de Sistemas
+Desarrollo de software, redes y arquitectura de computación.[6, 12]
+Optimización y Procesos
+Ingeniería Industrial
+Logística, cadena de abastecimiento y gestión de operaciones.[3, 6]
+Optimización y Procesos
+Ingeniería Mecánica
+Diseño mecánico, termodinámica y manufactura.[8, 9]
+Ambiente y Sostenibilidad
+Ingeniería Ambiental
+Tratamiento de aguas, calidad de aire y sostenibilidad.[6, 13]
+Ciencias Básicas y Datos
+Ingeniería Estadística
+Modelación estocástica y análisis de grandes volúmenes de datos.[6, 8]
+Ciencias Básicas y Datos
+Matemáticas
+Optimización, didáctica y actuaría.[10, 14]
+Ciencias Económicas
+Economía
+Análisis pluralista, finanzas y política económica.[10, 15]
+Ciencias Económicas
+Administración de Empresas
+Emprendimiento de base tecnológica y gestión estratégica.[10, 16]
+El Ecosistema de Posgrados y el Doctorado en Ingeniería
+La Escuela ha consolidado una oferta de posgrados que permite a los profesionales profundizar en áreas técnicas y gerenciales, apoyándose en la robustez de sus centros de estudio y grupos de investigación reconocidos por MinCiencias.[17, 18] Los programas de posgrado están orientados a la flexibilidad, permitiendo que los estudiantes equilibren su vida profesional con la formación de alto nivel, y muchos de ellos ofrecen la posibilidad de doble titulación o pasantías internacionales.[17]
+Especializaciones y Maestrías
+Las especializaciones de la Escuela se centran en la aplicación práctica de conocimientos avanzados para la resolución de problemas específicos del sector productivo. Destacan programas como la Especialización en Economía para Ingenieros, que brinda herramientas financieras críticas a profesionales de perfil técnico, y la Especialización en Economía Circular, que responde a los imperativos de sostenibilidad actuales.[11] Por otro lado, las maestrías ofrecen un enfoque más investigativo y profundo, permitiendo a los estudiantes participar en proyectos que generan patentes y nuevo conocimiento científico.[3, 17]
+Nivel
+Áreas de Especialidad / Programas
+Especialización
+Estructuras; Diseño, Construcción y Conservación de Vías; Ingeniería de Fundaciones.[11]
+Especialización
+Recursos Hidráulicos y Medio Ambiente; Saneamiento Ambiental; Economía Circular.[11]
+Especialización
+Gerencia de Operaciones; Logística y Cadena de Abastecimiento; Gestión de la Calidad (QHS).[11]
+Especialización
+Desarrollo y Gerencia de Proyectos; Gerencia de Marketing Digital; Estrategia de Datos.[11]
+Especialización
+Tecnologías para la Competitividad; Gerencia de Mantenimiento y Confiabilidad.[11]
+Maestría
+Ingeniería Civil; Ingeniería Mecánica; Ingeniería Electrónica; Ingeniería Eléctrica.[11, 19]
+Maestría
+Ingeniería Industrial; Informática; Gestión de Información; Ciencia de Datos.[11, 19]
+Maestría
+Ciencias Actuariales; Desarrollo y Gerencia Integral de Proyectos; Ingeniería Biomédica.[11, 16]
+El Doctorado en Ingeniería
+El Doctorado en Ingeniería representa la máxima distinción académica de la institución. Está diseñado para formar investigadores de élite capaces de liderar la innovación tecnológica en el país. El programa cuenta con una fase de formación matemática rigurosa que incluye asignaturas como Matemáticas Avanzadas, Modelación Numérica y Matemáticas Discretas, asegurando que los candidatos tengan las herramientas analíticas necesarias para abordar problemas de alta complejidad en control, telecomunicaciones y sistemas dinámicos.[19] El proceso de admisión para el periodo 2026-2 incluye entrevistas, exámenes de admisión y la evaluación de propuestas de investigación que deben estar alineadas con los grupos de investigación de la Escuela.[19]
+Renovación de la Acreditación Institucional de Alta Calidad
+Un hito fundamental en la historia reciente de la Escuela es la obtención de la Renovación de la Acreditación Institucional de Alta Calidad por un periodo de ocho años, otorgada mediante la Resolución N.° 000195 del 16 de enero de 2025.[2, 16] Este reconocimiento del Ministerio de Educación Nacional valida el esfuerzo constante de la comunidad académica por mantener estándares de excelencia en todas sus funciones sustantivas. El proceso de autoevaluación que condujo a esta renovación se basó en el Acuerdo 02 de 2020 del Consejo Nacional de Acreditación (CNA) e involucró una revisión exhaustiva de doce factores críticos.[2, 20]
+Factores de Autoevaluación y Fortalezas Identificadas
+La institución demostró solidez en diversas dimensiones que garantizan la calidad del servicio educativo. A continuación se detallan los factores clave evaluados durante el proceso de acreditación:
+Identidad Institucional: Coherencia entre la misión, la visión y el proyecto educativo institucional (PEI).[2]
+Gobierno Institucional y Transparencia: Eficacia en la toma de decisiones y rendición de cuentas clara ante la sociedad.[2]
+Desarrollo y Sostenibilidad: Estabilidad financiera y capacidad de gestión para asegurar la permanencia de la institución en el tiempo.[2]
+Mejoramiento Continuo: Existencia de procesos de autorregulación que permiten identificar fallas y aplicar planes de mejora.[2]
+Estructura y Procesos Académicos: Calidad de los currículos, flexibilidad pedagógica y pertinencia de los programas.[2]
+Investigación e Innovación: Aportes tangibles al entorno a través de patentes, publicaciones y desarrollo tecnológico.[2, 3]
+Impacto Social: Vínculo con la comunidad y contribución al desarrollo regional y nacional.[2]
+Visibilidad Nacional e Internacional: Participación en redes académicas, convenios de movilidad y representación en foros globales.[2]
+Bienestar Institucional: Programas que promueven la salud física y mental de los miembros de la comunidad.[2]
+Comunidad de Profesores: Alta cualificación docente, con una proporción significativa de doctores y magísteres.[2, 3]
+Comunidad de Estudiantes: Procesos de admisión transparentes y programas de apoyo a la permanencia.[2]
+Comunidad de Graduados: Seguimiento al impacto laboral de los egresados y su vinculación continua con la universidad.[2]
+La renovación por ocho años no solo es un sello de calidad, sino que también facilita procesos de internacionalización y convenios de doble titulación, consolidando a la Escuela como un referente de confianza para estudiantes nacionales y extranjeros.[2, 17]
+Modelo de Matrícula Variable y Valor de la Inversión Educativa
+La Escuela Colombiana de Ingeniería Julio Garavito aplica un modelo de matrícula diferencial o variable, fundamentado en una filosofía de equidad social que busca que ningún joven con talento se quede sin estudiar por motivos económicos.[10, 21] Este sistema permite que el valor de la matrícula se ajuste a la realidad socioeconómica de cada familia, calculándose a partir de dos variables principales: los ingresos del grupo familiar y el valor de la pensión pagada en el colegio de procedencia.[10, 21, 22]
+Funcionamiento de la Liquidación Diferencial
+Para el proceso de admisión, los aspirantes deben entregar soportes documentales (certificados laborales, desprendibles de nómina o certificados de ingresos) que permitan a la universidad realizar la liquidación dentro de un rango preestablecido.[10, 21, 23] Una vez emitido el valor de la matrícula, este no es sujeto a reliquidaciones, lo que garantiza la transparencia del proceso.[21] Cabe destacar que el programa de Ingeniería Biomédica posee un costo único que no se rige por la escala variable debido a su estructura de costos específica.[10, 22]
+Programas (Referencia 2026)
+Rango de Matrícula Mínimo (COP)
+Rango de Matrícula Máximo (COP)
+Ingenierías (IA, Civil, Eléctrica, etc.)
+$7.400.000
+$15.600.000
+Administración de Empresas y Economía
+$7.400.000
+$11.600.000
+Matemáticas
+$7.400.000
+$8.400.000
+Ingeniería Biomédica
+$14.900.000 (Fijo)
+$14.900.000 (Fijo)
+Adicionalmente, la institución ofrece beneficios financieros significativos, como el 10% de descuento permanente por convenios con colegios específicos, descuentos por pronto pago que pueden llegar al 15%, y becas de excelencia académica del 100% para los estudiantes con el mejor promedio acumulado de cada programa.[5, 10, 21]
+Desempeño Sobresaliente en Pruebas Saber Pro
+Los resultados de la Escuela en el examen de Estado de Calidad de la Educación Superior (Saber Pro) son un indicador irrefutable de su excelencia académica. En la medición de 2024, la institución se ubicó en el puesto número 13 a nivel nacional entre las universidades acreditadas, alcanzando un puntaje global promedio de 171 puntos sobre 300 posibles.[16, 24] Este puntaje sitúa a la Escuela muy por encima de la media nacional, que ronda los 145-146 puntos, y la pone a la par de universidades de élite como la Universidad Externado de Colombia.[24, 25]
+Estudiantes Destacados por Área de Conocimiento
+El análisis de los resultados individuales y por grupos de referencia muestra que los estudiantes de la Escuela sobresalen especialmente en las áreas de ingeniería, economía y matemáticas. El compromiso institucional con la formación científica y técnica se traduce en que sus egresados posean competencias de razonamiento cuantitativo y lectura crítica superiores al promedio del país.[16]
+Estudiante Destacado (2024)
+Programa Académico
+Grupo de Referencia
+Sergio Alejandro Nieto Villota
+Ingeniería Ambiental
+Ingeniería.[26]
+Juan Pablo Bonilla Bernal
+Economía
+Economía.[26]
+Rivaldo Cifuentes Monroy
+Matemáticas
+Ciencias Naturales y Exactas.[26]
+Maria Paula Medina Delgadillo
+Ingeniería Industrial
+Ingeniería.[26]
+Moises David Vasquez Castañeda
+Ingeniería Mecánica
+Ingeniería.[26]
+Este desempeño destaca la calidad de la formación en ciencias económicas y exactas, áreas en las que la Escuela ha invertido recursos considerables en laboratorios de simulación y centros de pensamiento pluralista.[15, 27]
+El Campus: Infraestructura Sostenible y Laboratorios de Vanguardia
+El campus de la Escuela Colombiana de Ingeniería es un entorno diseñado para la inspiración y la experimentación. Con una extensión de 27,8 hectáreas, se destaca por su compromiso con la sostenibilidad, siendo catalogado como un campus "ecoamigable" que hace uso eficiente de la energía y el agua, además de proteger la fauna y flora nativa de la zona.[28, 29]
+Complejo de Laboratorios y Capacidad Tecnológica
+La institución cuenta con 74 laboratorios modernos equipados con tecnología de última generación. El Edificio I, por ejemplo, es un complejo tecnológico clave donde se desarrollan proyectos de investigación que buscan soluciones a los problemas del país.[1, 13]
+Laboratorio de Estructuras y Materiales Alejandro Sandino Pardo: Cuenta con el muro de reacción más grande de Latinoamérica, una infraestructura crítica para el estudio de la ingeniería sísmica y el comportamiento de materiales a escala real.[13, 28]
+Edificio E (Posgrados): Con más de 7.300 m², ofrece espacios especializados para las ciencias básicas y la investigación avanzada, incluyendo 1.817 puestos de trabajo experimental.[13]
+Biblioteca Jorge Álvarez Lleras: Un sistema de información integral con amplias colecciones físicas y digitales que soportan el estudio y la investigación de toda la comunidad.[7]
+Infraestructura Deportiva: El campus dispone de 49.242 m² dedicados al deporte, con 23 canchas que incluyen disciplinas como fútbol, rugby, tenis, baloncesto y voleibol playa, centradas en el Coliseo El Otoño.[28, 29]
+Proyección Global: GlobalMUNers y Liderazgo en ACOFI
+La Escuela no solo forma técnicos, sino ciudadanos globales con capacidad de liderazgo. La participación de sus estudiantes en eventos de relevancia internacional es una muestra de la formación humanística y diplomática que ofrece la institución.[3, 4]
+IV Conferencia GlobalMUNers Nueva York 2026
+La delegación de la Escuela asistirá a la IV Conferencia de Modelos de Naciones Unidas "GlobalMUNers" en Nueva York (GMNY2026), un evento que reúne a jóvenes líderes en la sede principal de las Naciones Unidas para debatir sobre los retos globales.[4, 30] Estudiantes como Laura Sofía Trujillo Martínez y Kimmy Klaus Lowy Medellín representarán a la institución en foros donde se discuten temas como el multilateralismo, la cooperación internacional, los objetivos de desarrollo sostenible (ODS) y los derechos de la infancia.[4, 31] Esta participación fomenta habilidades críticas de negociación, oratoria y comprensión de la agenda internacional, esenciales para el ingeniero del siglo XXI.[31, 32]
+Representación en ACOFI
+A nivel nacional, la Escuela mantiene una posición de liderazgo en la Asociación Colombiana de Facultades de Ingeniería (ACOFI). Luis Alberto González Araujo, miembro de la Escuela, desempeña el cargo de Director Ejecutivo de ACOFI, contribuyendo a la definición de políticas de enseñanza de la ingeniería en Colombia.[33] La universidad participa activamente en el Encuentro Internacional de Educación en Ingeniería (EIEI) y en diversos concursos que promueven la excelencia académica y la investigación pedagógica entre profesores y estudiantes.[34, 35, 36]
+Bienestar Universitario y Eventos Internos
+El Bienestar Universitario en la Escuela se entiende como una herramienta para el desarrollo integral de la persona. La Dirección de Bienestar ofrece programas de apoyo emocional, salud mental y acompañamiento académico que buscan asegurar la permanencia y el éxito de los estudiantes.[7, 37]
+Apoyo Emocional y Salud Mental
+El Programa de Acompañamiento brinda asesoría psicológica individual y grupal, abordando temas como la gestión de emociones, ansiedad, autoestima y resiliencia.[37, 38] Estas sesiones están disponibles de forma presencial y remota, ajustándose a las necesidades de los estudiantes.[37] Además, la universidad cuenta con el programa "Convive", un voluntariado universitario que promueve la mediación y la resolución alternativa de conflictos dentro del campus.[37, 38]
+Eventos Institucionales Destacados
+La vida universitaria se dinamiza a través de eventos que fomentan la creatividad y el espíritu de comunidad:
+ECIFEST: Es el festival anual que celebra el aniversario de la Escuela. Incluye conciertos, muestras culturales, torneos deportivos de fútbol, tenis y baloncesto, ferias de emprendimiento y el tradicional bingo institucional.[39, 40]
+Feria de Ideas Inspiradoras: Un espacio donde los estudiantes de los cursos de Proyecto Integrador exponen sus prototipos e innovaciones tecnológicas en categorías como sostenibilidad, medio ambiente y impacto comunitario.[9, 41]
+Un día como profesional: Jornadas orientadas a estudiantes de colegio para que conozcan de cerca la práctica de las diferentes carreras.[7]
+Feria de Proyección Profesional: Evento que conecta a estudiantes y graduados con ofertas de prácticas profesionales y vacantes laborales, tanto nacionales como internacionales.[42]
+Gobierno Institucional y Directivas Actuales
+La estabilidad y el crecimiento de la Escuela se deben a un liderazgo sólido encabezado por su Consejo Directivo y la Rectoría. La actual Rectora, Myriam Astrid Angarita Gómez, es una ingeniera civil graduada de la Escuela con amplia trayectoria en la gestión universitaria y el Consejo Nacional de Acreditación (CNA).[43, 44] Su gestión se enfoca en la innovación educativa y el fortalecimiento de la calidad académica.[44]
+Cargo
+Nombre del Directivo
+Perfil y Trayectoria
+Rectora
+Myriam Astrid Angarita Gómez
+Ingeniera Civil, ex Secretaria General y par académica del CNA.[43]
+Vicerrector Académico
+Oswaldo Castillo Navetty
+Ingeniero de Sistemas, Doctor en Redes y Organizaciones.[43]
+Vicerrector Administrativo
+Diego Sánchez Fonseca
+Ingeniero Civil, ex Director del IDU con 36 años de experiencia.[43, 44]
+Secretaria General
+Patricia Salazar Perdomo
+Ingeniera de Sistemas, experta en gestión académica.[43, 44]
+Director de Posgrados
+Germán Ricardo Santos Granados
+Ingeniero Civil, Ph.D. en Ingeniería de Virginia Tech.[43]
+Presidente Consejo Directivo
+Javier Botero Álvarez
+Consultor internacional en educación y ciencia.[45, 46]
+El Consejo Directivo cuenta además con representantes de los profesores (Jorge Enrique Clavijo Ramírez), de los graduados (Daniel Ricardo Cerinza Mejía) y de los estudiantes (Daniel Ricardo Higuera Sichaca), asegurando una gobernanza participativa y democrática.[45]
+Conclusiones
+La Escuela Colombiana de Ingeniería Julio Garavito se consolida como una institución líder en la educación superior en Colombia, destacando por su rigor científico, su infraestructura de vanguardia y su profundo compromiso con la equidad social. La renovación de su acreditación institucional por ocho años es un testimonio de su madurez y calidad sostenida. Su capacidad para destacar en áreas tan diversas como la ingeniería, la economía y las matemáticas, reflejada en los excelentes resultados de las pruebas Saber Pro, demuestra la efectividad de un modelo pedagógico que integra lo técnico con lo humano. Con una proyección internacional creciente a través de eventos como GlobalMUNers y un campus que es ejemplo de sostenibilidad urbana, la Escuela se proyecta hacia el futuro como una universidad capaz de formar a los líderes que transformarán el entorno tecnológico y social de la nación.
+--------------------------------------------------------------------------------
+Mineducación otorga reconocimiento de Universidad a la Escuela Colombiana de Ingeniería Julio Garavito, https://ascun.org.co/noticias-ies/mineducacion-otorga-reconocimiento-de-universidad-a-la-escuela-colombiana-de-ingenieria-julio-garavito/
+Acreditación - Escuela Colombiana de Ingeniería Julio Garavito, https://www.escuelaing.edu.co/es/la-escuela/acreditacion/
+Bienvenidos a la Escuela Colombiana de Ingeniería Julio Garavito - YouTube, https://www.youtube.com/watch?v=35yMBgkhc6I
+“Modelo de Naciones Unidas, un ejercicio académico exigente ..., https://www.escuelaing.edu.co/es/noticias/modelo-de-naciones-unidas-un-ejercicio-academico-exigente-respetuoso-y-profundamente-formativo/
+Estudiantes - Escuela Colombiana de Ingeniería Julio Garavito, https://www.escuelaing.edu.co/es/estudiantes/
+Reglamentos, procedimientos y cronogramas académicos de la Escuela Julio Garavito, https://www.escuelaing.edu.co/es/estudiantes/reglamentos-y-cronogramas-academicos/
+Escuela Colombiana de Ingeniería Julio Garavito: Inicio, https://www.escuelaing.edu.co/
+Oferta Académica - Escuela Colombiana de Ingeniería Julio Garavito, https://www.escuelaing.edu.co/es/programas/
+Feria de ideas inspiradoras - Escuela Colombiana de Ingeniería Julio Garavito, https://www.escuelaing.edu.co/es/eventos/feria-de-ideas-inspiradoras/
+Inicia tu pregrado en la Escuela - Escuela Colombiana de Ingeniería Julio Garavito, https://www.escuelaing.edu.co/es/noticias/inicia-tu-pregrado-en-la-escuela/
+Inicie su posgrado en la Escuela Colombiana de Ingeniería, https://www.escuelaing.edu.co/es/noticias/inicie-su-posgrado-en-la-escuela-colombiana-de-ingenieria-julio-garavito/
+Iniciamos proceso para la Renovación de la Acreditación de Alta Calidad de Ingeniería de Sistemas, https://www.escuelaing.edu.co/es/noticias/iniciamos-proceso-para-la-renovacion-de-la-acreditacion-de-alta-calidad-de-ingenieria-de-sistemas/
+Laboratorios de la Universidad Escuela Colombiana de Ingeniería Julio Garavito, https://www.escuelaing.edu.co/es/campus/laboratorios-de-la-escuela-colombiana-de-ingenieria-julio-garavito/
+Por qué estudiar Matemáticas en la Escuela de Ingeniería Julio Garavito, https://www.escuelaing.edu.co/es/campus/por-que-estudiar-matematicas/
+Economía - Escuela Colombiana de Ingeniería Julio Garavito, https://www.escuelaing.edu.co/es/programas/economia/
+La Escuela, entre las 20 mejores universidades de Colombia en las ..., https://www.escuelaing.edu.co/es/noticias/la-escuela-entre-las-20-mejores-universidades-de-colombia-en-las-pruebas-saber-pro/
+IMPULSA OPEN CAMPUS – Posgrados en Escuela Colombiana de Ingeniería Julio Garavito - YouTube, https://www.youtube.com/watch?v=qLkVgbHy0rg
+Centros de Estudios de la Universidad Escuela Colombiana de Ingeniería Julio Garavito, https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centros-de-estudios-de-la-escuela-colombiana-de-ingenieria-julio-garavito/
+Doctorado en Ingeniería, https://www.escuelaing.edu.co/es/programas/doctorado-en-ingenieria/
+Acreditación en la Escuela Colombiana de Ingeniería Julio Garavito, https://www.escuelaing.edu.co/es/la-escuela/acreditacion-en-la-escuela/
+Nuevos primer semestre de la Escuela Colombiana de Ingeniería ..., https://www.escuelaing.edu.co/es/admisiones/nuevos-primer-semestre/
+¿Cuánto cuesta un semestre en la Escuela Colombiana de Ingeniería Julio Garavito?, https://www.wradio.com.co/2024/06/16/cuanto-cuesta-un-semestre-en-la-escuela-colombiana-de-ingenieria-julio-garavito/
+Transferencia y homologación - Escuela Colombiana de Ingeniería Julio Garavito, https://www.escuelaing.edu.co/es/admisiones/transferencia-homologacion/
+Saber Pro: Resultados institucionales 2024 de cada una de las IES, https://www.universidad.edu.co/saber-pro-resultados-institucionales-2024-de-cada-una-de-las-ies/
+Ranking Saber PRO actualizado. Análisis histórico resultados - Escuela Virtual ESE, https://eservicioseducativos.com/saber-pro-ranking-resultados/
+Mejores Saber PRO y TyT 2024 otorgado en 2025 - Ministerio de Educación Nacional, https://www.mineducacion.gov.co/portal/micrositios-institucionales/Noche-de-la-Excelencia-2025/ES/426247:Mejores-Saber-PRO-y-TyT-2024-otorgado-en-2025
+Centros de Estudios Oikonomía - Escuela Colombiana de Ingeniería Julio Garavito, https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-oikonimia/
+Campus - Escuela Colombiana de Ingeniería Julio Garavito, https://www.escuelaing.edu.co/es/campus/
+Premios y reconocimientos de la Escuela Colombiana de Ingeniería Julio Garavito, https://www.escuelaing.edu.co/es/campus/nuestros-premios-y-reconocimientos/
+IV Conferencia de GlobalMUNers en la Ciudad Nueva York, https://www.globalmuners.org/wp-content/uploads/2025/08/00_Presentacion_GMNYC2026.pdf
+Ceremonia de Inauguración | GMNYC 2026 – IV Conferencia de Global MUNers en la, https://www.youtube.com/watch?v=IVjZhgJomH4
+GlobalMuners | .org, https://www.globalmuners.org/
+Consejo Directivo 2024 – 2026 | ACOFI | Asociación Colombiana de Facultades de Ingeniería, https://www.acofi.edu.co/la-asociacion/consejo-directivo-de-acofi/
+ACOFI | Asociación Colombiana de Facultades de Ingeniería, https://www.acofi.edu.co/
+Premios ACOFI | EIEI ACOFI 2024 | INGENIERÍA: UNA TRANSICIÓN HACIA EL FUTURO, https://acofi.edu.co/eiei2024/premios-acofi/
+Concurso ACOFI 50 años para la promoción de la ingeniería, https://www.acofi.edu.co/concurso-acofi-50-aniversario/
+Programa de acompañamiento - Escuela Colombiana de Ingeniería Julio Garavito, https://www.escuelaing.edu.co/es/campus/programa-de-acompanamiento/
+Salud mental y calidad de vida - Escuela Colombiana de Ingeniería Julio Garavito, https://www.escuelaing.edu.co/es/campus/servicio-psicologico-de-la-escuela/
+EciFest - Escuela Colombiana de Ingeniería Julio Garavito, https://www.escuelaing.edu.co/es/eventos/ecifest/
+ecifest 2026 - Escuela Colombiana de Ingeniería Julio Garavito, https://www.escuelaing.edu.co/es/eventos/ecifest-2026/
+Estudiantes presentan innovadoras ideas en la Feria de Prototipos - YouTube, https://www.youtube.com/watch?v=bYjE_YBpHak
+Feria de Proyección Profesional 2026-1 - Escuela Colombiana de Ingeniería Julio Garavito, https://www.escuelaing.edu.co/es/eventos/feria-de-proyeccion-profesional-2026-1/
+Directivos de la Escuela Colombiana de Ingeniería Julio Garavito ..., https://www.escuelaing.edu.co/es/la-escuela/directivos/
+Myriam Astrid Angarita Gómez, Rectora de la Escuela Colombiana de Ingeniería 2024-2026, https://www.escuelaing.edu.co/es/noticias/myriam-astrid-angarita-gomez-rectora-de-la-escuela-colombiana-de-ingenieria-2024-2026/
+Consejo Directivo de la Universidad Escuela Colombiana de Ingeniería Julio Garavito, https://www.escuelaing.edu.co/es/la-escuela/consejo-directivo/
+El Claustro: voces que inspiran, saberes que transforman, https://www.escuelaing.edu.co/es/noticias/el-claustro-voces-que-inspiran-saberes-que-tranforman/
+
