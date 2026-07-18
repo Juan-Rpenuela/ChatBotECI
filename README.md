@@ -1,10 +1,10 @@
-# Assistant Lite - Escuela Colombiana Bot 🤖🎓
+# Assistant Lite - Escuela Colombiana Bot
 
-Este es un asistente de voz y texto independiente y optimizado para terminal. Está diseñado para funcionar al 100% de manera local (offline) sin depender de interfaces gráficas pesadas. Responde preguntas sobre documentos institucionales con una voz personalizada (ej. Rectora de la universidad).
+Assistant Lite is an independent voice and text assistant optimized for terminal environments. It is designed to run entirely locally (offline), without relying on heavy graphical interfaces. The assistant answers questions about institutional documents using a custom voice (e.g., the university's Rector).
 
-## 🛠️ Requisitos del Sistema
+## System Requirements
 
-Antes de empezar, instala las librerías base para audio y compilación en Linux (Ubuntu/Debian/Raspbian):
+Before getting started, install the required system libraries for audio processing and compilation on Linux (Ubuntu/Debian/Raspberry Pi OS):
 
 ```bash
 sudo apt update
@@ -13,89 +13,112 @@ sudo apt install -y git make g++ python3-venv python3-pip python3-dev portaudio1
 
 ---
 
-## 🚀 Instalación desde Cero
+## Installation from Scratch
 
-El asistente requiere la configuración manual de 3 motores locales: Transcripción (Whisper), Inteligencia (Ollama) y Voz (Piper).
+The assistant requires the manual setup of three local engines:
 
-### 1. Ollama (Motor de Inteligencia Artificial)
+* **Whisper** (Speech-to-Text)
+* **Ollama** (LLM Inference)
+* **Piper** (Text-to-Speech)
 
-Ollama procesará la lógica y el texto.
+### 1. Ollama (AI Engine)
+
+Ollama handles the language model inference and text generation.
 
 ```bash
-# 1. Instalar Ollama en tu sistema
+# 1. Install Ollama
 curl -fsSL https://ollama.com/install.sh | sh
 
-# 2. Descargar el modelo LLM que usaremos (ej: phi3.5, más rápido para Pcs/Raspi)
+# 2. Download the LLM model (phi3.5 is recommended for PCs and Raspberry Pi)
 ollama pull phi3.5
 ```
 
-### 2. Whisper.cpp (Reconocedor de Voz - STT)
+---
 
-Whisper transcribe tu voz a texto. Debemos clonarlo y compilarlo en la raíz del proyecto.
+### 2. Whisper.cpp (Speech-to-Text)
+
+Whisper transcribes spoken audio into text.
 
 ```bash
-# 1. Volver a la raíz de tu proyecto e instalar whisper
-cd /ruta/a/tu/proyecto
+# 1. Go to your project root and clone whisper.cpp
+cd /path/to/your/project
 git clone https://github.com/ggerganov/whisper.cpp.git
 cd whisper.cpp
 
-# 2. Compilar el programa
+# 2. Build the project
 make
 
-# 3. Descargar el modelo de reconocimiento (El 'small' es ideal para español franco)
+# 3. Download the speech recognition model
+# The "small" model offers a good balance between speed and accuracy.
 bash ./models/download-ggml-model.sh small
+
 cd ..
 ```
 
-### 3. Piper TTS (Sintetizador de Voz - TTS)
+---
 
-Piper convierte el texto del bot a audio en tiempo real. 
+### 3. Piper TTS (Text-to-Speech)
+
+Piper converts the assistant's responses into speech in real time.
 
 ```bash
-# 1. En la raíz de tu proyecto, crea una carpeta para piper
+# 1. Create a folder for Piper
 mkdir piper && cd piper
 
-# 2. Descargar el binario de Piper. 
-# NOTA: Cambia 'amd64' a 'aarch64' (si usas Raspberry Pi/ARM) o el adecuado para tu sistma.
+# 2. Download the appropriate Piper binary.
+# NOTE: Replace "amd64" with "aarch64" if you're using a Raspberry Pi or another ARM-based device.
 wget https://github.com/rhasspy/piper/releases/download/v1.2.0/piper_amd64.tar.gz
+
 tar -xzf piper_amd64.tar.gz
 
-# 3. Extraer todo en la carpeta actual y limpiar
+# 3. Extract everything into the current directory and clean up
 mv piper/* .
 rm -rf piper piper_amd64.tar.gz
+
 cd ..
 ```
 
-### 4. Instalar tu Voz Personalizada (Clonación)
+---
 
-Para usar la voz de la rectora (generada como archivo `.onnx` desde Google Colab o datasets de Piper), debes colocar **dos** archivos clave en tu proyecto.
+### 4. Install Your Custom Voice
 
-1. Crea la carpeta de voces en assistant_lite:
-   ```bash
-   mkdir -p assistant_lite/voices
-   ```
-2. Pon tus archivos generados ahí. Necesitas ABSOLUTAMENTE ambos archivos:
-   - `es_LA-miriam_voice-medium.onnx` (El cerebro de la voz, ~60MB)
-   - `es_LA-miriam_voice-medium.onnx.json` (Parámetros y diccionarios)
+To use a cloned voice (such as the Rector's voice generated with Google Colab or Piper datasets), place **both** required files into the project.
 
-### 5. Entorno Python y Dependencias
-
-Para encapsular las dependencias, usaremos un entorno virtual en la raíz del proyecto:
+1. Create the voices directory:
 
 ```bash
-# 1. Crear y activar el entorno virtual
+mkdir -p assistant_lite/voices
+```
+
+2. Copy the following files into that folder:
+
+* `es_LA-miriam_voice-medium.onnx` *(Voice model, approximately 60 MB)*
+* `es_LA-miriam_voice-medium.onnx.json` *(Voice configuration and dictionaries)*
+
+Both files are required for Piper to synthesize speech correctly.
+
+---
+
+### 5. Python Virtual Environment
+
+To isolate project dependencies, create a virtual environment in the project root.
+
+```bash
+# Create and activate the virtual environment
 python3 -m venv venv
 source venv/bin/activate
 
-# 2. Instalar requerimientos (debes tener un requirements.txt con ollama, sounddevice, numpy, scipy)
+# Install the required Python packages
 pip install ollama sounddevice numpy scipy
 ```
 
 ---
 
-## ⚙️ Configuración (`config.json`)
+## Configuration (`config.json`)
 
-Dentro de la carpeta `assistant_lite/`, el archivo `config.json` vincula todos estos programas. Ajusta las rutas si ubicaste los binarios diferente. Ejemplo:
+Inside the `assistant_lite/` directory, edit `config.json` so it points to the correct binaries and models.
+
+Example:
 
 ```json
 {
@@ -110,31 +133,46 @@ Dentro de la carpeta `assistant_lite/`, el archivo `config.json` vincula todos e
 }
 ```
 
-- **`record_seconds`**: Segundos exactos que escuchará el micrófono al presionar ENTER antes de cortar. (Bájalo a 3-4s si quieres respuestas muy ágiles).
-- **`whisper_threads`**: Hilos de tu procesador usados para transcribir.
+### Configuration Options
+
+* **`record_seconds`**: Number of seconds the microphone records after pressing **ENTER**. Reduce it to **3–4 seconds** for faster interactions.
+* **`whisper_threads`**: Number of CPU threads Whisper uses for transcription.
 
 ---
 
-## ▶️ Cómo Ejecutar el Proyecto
+## Running the Project
 
-Siempre debes tener activo el entorno virtual de Ollama y Python.
+Before starting the assistant, make sure Ollama is available and the Python virtual environment is activated.
 
-1. **Terminal 1: Arrancar el Servidor de Ollama**
-   ```bash
-   ollama serve
-   ```
-   *(Nota: en muchos sistemas, Ollama ya se ejecuta en background automáticamente, entonces puedes omitir este paso).*
+### Terminal 1 — Start Ollama
 
-2. **Terminal 2: Correr el Asistente**
-   ```bash
-   # Activa el entorno python
-   source /ruta/a/tu/proyecto/venv/bin/activate
-   
-   # Navega a la subcarpeta del lite
-   cd /ruta/a/tu/proyecto/assistant_lite
-   
-   # Ejecuta el script principal
-   python simple_agent.py
-   ```
+```bash
+ollama serve
+```
 
-El programa te pedirá presionar `ENTER`. Al presionarlo, el micrófono grabará durante el tiempo configurado (`record_seconds`). Transcribirá textualmente y te responderá con tu modelo `.onnx` de voz personalizado.
+> **Note:** On many systems, Ollama starts automatically as a background service. If that's the case, you can skip this step.
+
+---
+
+### Terminal 2 — Launch the Assistant
+
+```bash
+# Activate the virtual environment
+source /path/to/your/project/venv/bin/activate
+
+# Navigate to the assistant directory
+cd /path/to/your/project/assistant_lite
+
+# Start the assistant
+python simple_agent.py
+```
+
+The program will prompt you to press **ENTER**.
+
+Once pressed:
+
+1. The microphone records audio for the configured duration (`record_seconds`).
+2. Whisper transcribes the speech into text.
+3. Ollama generates a response.
+4. Piper synthesizes the response using your custom `.onnx` voice model.
+5. The assistant plays the generated audio back to you.
